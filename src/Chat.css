@@ -1,0 +1,16 @@
+#chatContainer{
+  margin: 10px 50px 0px 50px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.bubbleContainer{
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.chatBubble{
+  width: 200px;
+	background: #84c1ff;
+	border-radius: .4em;
+}
